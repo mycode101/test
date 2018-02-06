@@ -5,4 +5,8 @@ if hungry=="yes":
     print("eat pau si")
     print("eat mon si kyaw")
 else:
-    print("do your homework")
+    thirsty=raw_input("are you thirsty? ")
+    if thirsty=="yes":
+        print("drink water")
+        print("drink soda")
+        
